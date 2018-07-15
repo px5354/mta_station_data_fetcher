@@ -56,7 +56,8 @@ const importStops = async () => {
   return stopsObj;
 }
 
-const outputStops = stops => {
+const outputStops = (route, stops) => {
+  console.log(`Stops of route ${route}:`);
   stops.forEach(s => {
     console.log(`- ${s.name} (${s.id}): ${s.stop_lat}, ${s.stop_lon}`);
   });
@@ -86,7 +87,7 @@ routes.then(data => {
           s['stop_lon'] = stops[s.id]['stop_lon'];
           mergedStops.push(s);
         });
-        outputStops(mergedStops);
+        outputStops(answers.route, mergedStops);
       });
     });
   });
