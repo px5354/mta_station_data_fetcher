@@ -1,0 +1,12 @@
+{
+  "name": "real-time-test",
+  "version": "1.0.0",
+  "main": "getRealTimeMTA.js",
+  "author": "Philippe Le",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.6",
+    "inquirer": "^6.0.0",
+    "node-fetch": "^2.1.2"
+  }
+}
