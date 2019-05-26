@@ -52,9 +52,9 @@ color-name@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.1.tgz#4b1415304cf50028ea81643643bd82ea05803689"
 
-csvtojson@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-2.0.6.tgz#75ebb770c4e6dac80364e445e7021116af288073"
+csvtojson@^2.0.8:
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-2.0.8.tgz#d889f19576b2b33ead235490d2e5c9791481e8d3"
   dependencies:
     bluebird "^3.5.1"
     lodash "^4.17.3"
