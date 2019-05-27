@@ -7,6 +7,6 @@
   "dependencies": {
     "csvtojson": "^2.0.6",
     "inquirer": "^6.0.0",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.6.0"
   }
 }
