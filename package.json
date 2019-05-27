@@ -5,7 +5,7 @@
   "author": "Philippe Le",
   "license": "MIT",
   "dependencies": {
-    "csvtojson": "^2.0.6",
+    "csvtojson": "^2.0.8",
     "inquirer": "^6.0.0",
     "node-fetch": "^2.6.0"
   }
