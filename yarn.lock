@@ -56,7 +56,7 @@ color-name@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.1.tgz#4b1415304cf50028ea81643643bd82ea05803689"
 
-csvtojson@^2.0.8:
+csvtojson@^2.0.6:
   version "2.0.8"
   resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-2.0.8.tgz#d889f19576b2b33ead235490d2e5c9791481e8d3"
   dependencies:
@@ -92,9 +92,9 @@ iconv-lite@^0.4.24:
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
-inquirer@^6.3.1:
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-6.3.1.tgz#7a413b5e7950811013a3db491c61d1f3b776e8e7"
+inquirer@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-6.4.0.tgz#6f9284047c4e48b76b169e46b3ae3b2171ce30a2"
   dependencies:
     ansi-escapes "^3.2.0"
     chalk "^2.4.2"
